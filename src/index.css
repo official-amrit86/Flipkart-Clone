@@ -1,0 +1,72 @@
+@import "tailwindcss";
+i
+body{
+  background-color: rgb(12, 16, 17);
+}
+
+/* :root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height:2;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  
+  text-decoration: inherit;
+}
+body {
+  margin: 0;
+  padding:0;
+  display: flex;
+  place-items: center;
+
+  min-width: 320px; 
+  min-height: 100vh; 
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+} */
+
+
+
+/*   {/* {sections.map((section) => (
+        <section key={section.title} className="my-6 p-4 bg-white shadow">
+          <h2 className="text-xl font-semibold mb-4">{section.title}</h2>
+          <div className="flex overflow-x-auto space-x-4">
+            {Array(section.items)
+              .fill(0)
+              .map((_, i) => (
+                <a
+                  href=""
+                  key={i}
+                  className="min-w-[150px] border rounded p-2 hover:shadow"
+                >
+                  <img
+                    src=""
+                    alt={section.title}
+                  />
+                  <h3 className="mt-2 text-sm">
+                    {section.title} Item {i + 1}
+                  </h3>
+                  <p className="text-green-600 font-semibold">
+                    ₹{999 + i * 100}
+                  </p>
+                </a>
+              ))}
+          </div>
+       
+        </section>
+      ))} */
