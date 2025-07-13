@@ -3,7 +3,7 @@ import Footer from '../Footer';
 
 function About() {
   return (
-    <div className="max-w-6xl mx-auto px-4 py-10 bg-blue-50">
+    <div className=" mx-auto px-4 py-10 bg-blue-50">
       <h1 className="text-4xl font-bold text-center text-blue-800 mb-10">About Us</h1>
 
       {/* Company Overview */}
